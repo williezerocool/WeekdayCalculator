@@ -1,1 +1,1 @@
-# WeekdayClaculator
+# WeekdayCalculator
